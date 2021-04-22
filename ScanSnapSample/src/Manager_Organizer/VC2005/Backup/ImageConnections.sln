@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageConnections", "ImageConnections\ImageConnections.vcproj", "{12C0F1DF-59BE-4143-BFD1-9FE32D937207}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageSettings", "ImageSettings\ImageSettings.vcproj", "{3586B9AF-6772-4B7F-81E7-B68DD4162061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C0F1DF-59BE-4143-BFD1-9FE32D937207}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12C0F1DF-59BE-4143-BFD1-9FE32D937207}.Debug|Win32.Build.0 = Debug|Win32
+		{12C0F1DF-59BE-4143-BFD1-9FE32D937207}.Release|Win32.ActiveCfg = Release|Win32
+		{12C0F1DF-59BE-4143-BFD1-9FE32D937207}.Release|Win32.Build.0 = Release|Win32
+		{3586B9AF-6772-4B7F-81E7-B68DD4162061}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3586B9AF-6772-4B7F-81E7-B68DD4162061}.Debug|Win32.Build.0 = Debug|Win32
+		{3586B9AF-6772-4B7F-81E7-B68DD4162061}.Release|Win32.ActiveCfg = Release|Win32
+		{3586B9AF-6772-4B7F-81E7-B68DD4162061}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

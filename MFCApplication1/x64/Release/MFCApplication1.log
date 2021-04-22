@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MFCApplication1.cpp
+  MFCApplication1Doc.cpp
+  MFCApplication1View.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating code
+  All 628 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MFCApplication1.vcxproj -> C:\Users\于永航\Documents\nikoloside\akbscanner\x64\Release\MFCApplication1.exe

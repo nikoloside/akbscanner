@@ -1,0 +1,16 @@
+﻿  AKBScanner.cpp
+C:\dev\lib\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\dev\lib\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\dev\lib\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\dev\lib\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\dev\lib\opencv\build\include\opencv2/imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+AKBScanner.cpp(207): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+AKBScanner.cpp(239): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+AKBScanner.cpp(240): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+AKBScanner.cpp(345): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 816 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AKBScanner.vcxproj -> C:\Users\于永航\Documents\nikoloside\akbscanner\x64\Release\AKBScanner.exe

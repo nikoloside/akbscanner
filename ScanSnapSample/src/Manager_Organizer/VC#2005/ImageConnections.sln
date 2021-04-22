@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageConnections", "ImageConnections\ImageConnections.csproj", "{D14C1844-43C4-44BF-A919-179171861A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSettings", "ImageSettings\ImageSettings.csproj", "{CEA789A5-3BEC-4B17-B451-51FB3836904F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14C1844-43C4-44BF-A919-179171861A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14C1844-43C4-44BF-A919-179171861A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14C1844-43C4-44BF-A919-179171861A9F}.Debug|x86.ActiveCfg = Debug|x86
+		{D14C1844-43C4-44BF-A919-179171861A9F}.Debug|x86.Build.0 = Debug|x86
+		{D14C1844-43C4-44BF-A919-179171861A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14C1844-43C4-44BF-A919-179171861A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14C1844-43C4-44BF-A919-179171861A9F}.Release|x86.ActiveCfg = Release|x86
+		{D14C1844-43C4-44BF-A919-179171861A9F}.Release|x86.Build.0 = Release|x86
+		{CEA789A5-3BEC-4B17-B451-51FB3836904F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA789A5-3BEC-4B17-B451-51FB3836904F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA789A5-3BEC-4B17-B451-51FB3836904F}.Debug|x86.ActiveCfg = Debug|x86
+		{CEA789A5-3BEC-4B17-B451-51FB3836904F}.Debug|x86.Build.0 = Debug|x86
+		{CEA789A5-3BEC-4B17-B451-51FB3836904F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA789A5-3BEC-4B17-B451-51FB3836904F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA789A5-3BEC-4B17-B451-51FB3836904F}.Release|x86.ActiveCfg = Release|x86
+		{CEA789A5-3BEC-4B17-B451-51FB3836904F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

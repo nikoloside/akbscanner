@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CardConnections", "CardConnections\CardConnections.vcproj", "{41F272E2-F2DF-40DC-BA61-21854F8AD1AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CardSettings", "CardSettings\CardSettings.vcproj", "{808F5B62-A7E9-4B04-82A5-1165F68D87BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F272E2-F2DF-40DC-BA61-21854F8AD1AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41F272E2-F2DF-40DC-BA61-21854F8AD1AC}.Debug|Win32.Build.0 = Debug|Win32
+		{41F272E2-F2DF-40DC-BA61-21854F8AD1AC}.Release|Win32.ActiveCfg = Release|Win32
+		{41F272E2-F2DF-40DC-BA61-21854F8AD1AC}.Release|Win32.Build.0 = Release|Win32
+		{808F5B62-A7E9-4B04-82A5-1165F68D87BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{808F5B62-A7E9-4B04-82A5-1165F68D87BA}.Debug|Win32.Build.0 = Debug|Win32
+		{808F5B62-A7E9-4B04-82A5-1165F68D87BA}.Release|Win32.ActiveCfg = Release|Win32
+		{808F5B62-A7E9-4B04-82A5-1165F68D87BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
